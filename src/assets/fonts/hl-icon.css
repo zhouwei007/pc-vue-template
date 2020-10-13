@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "hl-icon";
+  src: url('./hl-icon.eot?t=1600333904586');
+  src: url('./hl-icon.eot?t=1600333904586#iefix') format('embedded-opentype'),
+    url('./hl-icon.woff2?t=1600333904586') format('woff2'),
+    url('./hl-icon.woff?t=1600333904586') format('woff'),
+    url('./hl-icon.ttf?t=1600333904586') format('truetype'),
+    url('./hl-icon.svg?t=1600333904586#hl-icon') format('svg');
+}
+
+.hl-icon {
+  font-family: "hl-icon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hl-icon.hl-icon-360::before { content: "\e167"; }
+.hl-icon.hl-icon-361::before { content: "\e168"; }
+.hl-icon.hl-icon-362::before { content: "\e169"; }
+.hl-icon.hl-icon-363::before { content: "\e16a"; }
+.hl-icon.hl-icon-round-close-fill::before { content: "\e106"; }
+.hl-icon.hl-icon-eye-close::before { content: "\e118"; }
+.hl-icon.hl-icon-eye::before { content: "\e119"; }
+.hl-icon.hl-icon-arrow-down::before { content: "\e110"; }
+.hl-icon.hl-icon-arrow-left::before { content: "\e111"; }
+.hl-icon.hl-icon-arrow-right::before { content: "\e112"; }
+.hl-icon.hl-icon-arrow-up::before { content: "\e113"; }
+.hl-icon.hl-icon-close::before { content: "\e000"; }
+.hl-icon.hl-icon-square-minus::before { content: "\e0f3"; }
+.hl-icon.hl-icon-square-plus::before { content: "\e0f4"; }
+.hl-icon.hl-icon-round::before { content: "\e107"; }
+.hl-icon.hl-icon-round-dot::before { content: "\e15a"; }
+.hl-icon.hl-icon-search::before { content: "\e00f"; }
+.hl-icon.hl-icon-372::before { content: "\e173"; }
+.hl-icon.hl-icon-373::before { content: "\e174"; }
+.hl-icon.hl-icon-295::before { content: "\e126"; }
+.hl-icon.hl-icon-395::before { content: "\e18a"; }
+.hl-icon.hl-icon-396::before { content: "\e18b"; }
+.hl-icon.hl-icon-round-minu::before { content: "\e03c"; }
+.hl-icon.hl-icon-forward::before { content: "\e02a"; }
+.hl-icon.hl-icon-repeal::before { content: "\e041"; }
+.hl-icon.hl-icon-reply::before { content: "\e042"; }
+.hl-icon.hl-icon-round-add::before { content: "\e043"; }
+.hl-icon.hl-icon-426::before { content: "\e1a9"; }
+.hl-icon.hl-icon-NEWS::before { content: "\e1ac"; }
+.hl-icon.hl-icon-428::before { content: "\e1ab"; }
+.hl-icon.hl-icon-430::before { content: "\e1ad"; }
+.hl-icon.hl-icon-544::before { content: "\e21f"; }
+.hl-icon.hl-icon-546::before { content: "\e221"; }
+.hl-icon.hl-icon-547::before { content: "\e222"; }
+.hl-icon.hl-icon-548::before { content: "\e223"; }
+.hl-icon.hl-icon-549::before { content: "\e224"; }
+.hl-icon.hl-icon-550::before { content: "\e225"; }
+.hl-icon.hl-icon-558::before { content: "\e22d"; }
+.hl-icon.hl-icon-559::before { content: "\e22e"; }
